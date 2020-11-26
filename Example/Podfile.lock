@@ -1,0 +1,16 @@
+PODS:
+  - NYFramework (1.0.0)
+
+DEPENDENCIES:
+  - NYFramework (from `../NYFramework/`)
+
+EXTERNAL SOURCES:
+  NYFramework:
+    :path: "../NYFramework/"
+
+SPEC CHECKSUMS:
+  NYFramework: fd0a057963a451a5c65d038cddf86e1db692685b
+
+PODFILE CHECKSUM: fb41f12e5b61c609450a1fb6990d581e8f2ec363
+
+COCOAPODS: 1.8.4

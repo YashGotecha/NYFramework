@@ -1,0 +1,6 @@
+framework module NYFramework {
+  umbrella header "NYFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
